@@ -5,7 +5,7 @@ date:   2021-05-05 21:55:52 +1000
 ---
 ![Buying a computer](/imgs/buying%20a%20computer.jpg)
 
-When it comes to buying a computer and the huge amount of options out there, it seems like a very difficult thing to do, and indeed it is, even for experts it is a pain to make a wise choice. However, in this article, I will give you a little bit of context on the main components that need to be seen and narrow those option based on your needs. 
+When it comes to buying a computer and you step in the huge amount of options out there, it seems like a very difficult thing to do, and indeed it is. Even for experts it is a pain to make a wise choice. However, in this article, I will give you a little bit of context on the main components that need to be seen and narrow those option based on your needs. 
 
 When I was a teenager I used to hear people using the term ‘CPU’ to refer to the whole tower for desktop computers, and rapidly adopted the same term when talking about a PC. It was just until I got into college that I realised that CPU stands for Central Processing Unit and that this is the main component of the computer, not because the others are not important but because without a CPU your device is useless(or can be used for other purposes out of the scope of this article). 
 
