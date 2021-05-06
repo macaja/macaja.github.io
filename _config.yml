@@ -1,21 +1,10 @@
 title: My personal blog
+author: Mauricio Cardona Jaramillo
 url: https://macaja.github.io
 baseurl: /
 twitter_username: mauriciocj96
 github_username:  macaja
-
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
