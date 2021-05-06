@@ -3,6 +3,6 @@ description: Welcome to my blog
 author: Mauricio Cardona Jaramillo
 url: http://macaja.github.io
 github_username:  macaja
-theme: minima
+theme: the-plain
 plugins:
   - jekyll-feed
