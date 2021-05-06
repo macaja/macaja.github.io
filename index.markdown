@@ -4,6 +4,7 @@
 
 layout: index
 ---
+<img src="{{ site.avatar_url }}" alt="Avatar" class="avatar">
 ## My personal blog
 {% for post in site.posts %}
 <p>

@@ -1,8 +1,10 @@
 title: My personal blog
 author: Mauricio Cardona Jaramillo
 url: https://macaja.github.io
+avatar_url: https://avatars.githubusercontent.com/u/13388700?v=4
 twitter_username: mauriciocj96
 github_username:  macaja
+linkedin_username: mauricio-cardona-jaramillo-252228135
 markdown: kramdown
 google_analytics: UA-196423121-1
 plugins:
