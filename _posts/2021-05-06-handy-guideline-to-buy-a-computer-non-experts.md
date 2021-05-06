@@ -14,4 +14,4 @@ The second component to have a look at is the RAM which stands for Random Access
 
 Finally, the storage. There are two types of this one. HDD or Hard Drive Disk and SDD or Solid-State drive. The main difference between the two: SSD is way faster than HDD. As its name says, HDD uses a disk to read and write information whereas SSD doesn’t. 2021 laptops and computers come with SSD but if you are after a second-hand device you should probably have a look a this before buying. There is one more that is becoming more popular call NVMe and stands for Non-volatile Memory Express and is way faster than SSD. So if you are buying and you see the storage is NVMe and it fits your budget, go for it, if not, then go for SSD. HDD is not an option anymore for today’s computers. Try to find an SSD that suits your budget.
 
-[image]: /imgs/buying-a-computer.png "Buying a computer"
+[image]: /imgs/buying-a-computer.jpg "Buying a computer"
