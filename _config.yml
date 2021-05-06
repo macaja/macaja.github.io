@@ -1,16 +1,12 @@
 title: My personal blog
 author: Mauricio Cardona Jaramillo
 url: https://macaja.github.io
-baseurl: /
 twitter_username: mauriciocj96
 github_username:  macaja
 markdown: kramdown
-theme: minima
+google_analytics: UA-196423121-1
 plugins:
   - jekyll-feed
-  - jekyll-analytics
+sass:
+  style: compact 
 
-jekyll_analytics:
-  GoogleAnalytics:          
-    id: UA-196423121-1
-    anonymizeIp: false  
